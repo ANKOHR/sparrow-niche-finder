@@ -1,0 +1,38 @@
+# SYNTHETIC hand-written example, illustrative only
+{
+  "as_of": "2026-09-30",
+  "entered_by": "hand-written synthetic example",
+  "records": [
+    {
+      "date": "2026-09-01",
+      "id": "1",
+      "market": "A",
+      "responded": true
+    },
+    {
+      "date": "2026-09-01",
+      "id": "2",
+      "market": "A",
+      "responded": false
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3",
+      "market": "B",
+      "responded": true
+    },
+    {
+      "date": "2026-09-01",
+      "id": "4",
+      "market": "B",
+      "responded": false
+    },
+    {
+      "date": "2026-09-01",
+      "id": "5",
+      "market": "B",
+      "responded": false
+    }
+  ],
+  "synthetic": true
+}
