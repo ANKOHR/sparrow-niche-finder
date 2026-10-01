@@ -1,0 +1,9 @@
+Sparrow Niche Finder build complete
+Test count: 28 passed, 0 failed.
+Local implementation commit: cb329cedfb50415a0c9de77fc98df6295184d024
+Branch: main
+Measured installed CLI fixture demo: 0.748974 seconds, below 5 seconds.
+
+Built a deterministic CPU-only Python CLI with fixtures, run, report, compare, and niches commands. It validates explicit local observations, compares market response rates against remaining observations using exact fractions, and renders Markdown or JSON with provenance and unmeasured-savings labels. The 200-record synthetic fixture matches independent hand-computed expectations with Alpha alone qualifying and zero false positives; tests cover corrupted inputs, empty inputs, Unicode, determinism, named errors, and atomic report writes. Included a five-record example, complete usage and schema documentation, local evidence, domain lessons, and a two-week real-use improvement and verdict process. Real-use evidence is pending and no commercial outcome is claimed. Publishing is left to the separate verification step.
+
+The implementation commit above contains all code, tests, examples, and evidence. This completion record is committed separately to avoid a self-referential commit hash.
